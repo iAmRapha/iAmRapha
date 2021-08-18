@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iAmRapha
-- 👀 I’m interested in aweb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web full stack @ Digital House
 - 📫 How to reach me raphaelcassiogoncalves@gmail.com
 
